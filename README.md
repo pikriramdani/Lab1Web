@@ -8,5 +8,7 @@
 ## Belajar dasar HTML
 ## Langkah - Langkah Praktikum
 
-<br> disini saya akan menjelaskan cara membuat web dengan html
-<br> Pertama siapkan VSCode
+<br> *assalamualakum*
+<br> Nama saya Pikri Ramdani disini saya akan menjelaskan cara membuat web dengan html
+<br> Pertama siapkan Visual Studio Code dan browser
+![p](gambar/fotovscd.png)
