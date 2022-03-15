@@ -73,7 +73,7 @@
 
 ## Jawaban
 
-<br> Saya akan melakukan perbedaan tag HTML sebelum dan sesudah perubahan.
+<br> 1.Saya akan melakukan perbedaan tag HTML sebelum dan sesudah perubahan.
 <br> sebelum perubahan akan seperti gambar berikut :
 ![p](gambar/foto14.png)
 ![p](gambar/foto15.png)
@@ -83,4 +83,3 @@
 ![p](gambar/ss%20tgs%202.png)
 <br> Disini saya melakukan perubahan dengan menghilangkan tag `<h/1>` menjadi `<h1>` maka akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti tag `<h1>` dikarenakan tidak ada penutup pada tag tersebut.
 
-1
