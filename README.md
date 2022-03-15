@@ -9,8 +9,4 @@
 ## Langkah - Langkah Praktikum
 
 <br> disini saya akan menjelaskan cara membuat web dengan html
-<br> Pertama Siapkan VSCODE
-![h](gambar/fotovscd.png)
-
-![h](gambar/foto1.png)
-<br>
+<br> Pertama siapkan VSCode
